@@ -6,6 +6,13 @@ import org.junit.Test;
 public class CharUtilTest {
 
 	@Test
+	public void digit16Test() {
+		int a = CharUtil.digit16('b');
+		System.out.println(a);
+	}
+
+
+	@Test
 	public void trimTest() {
 		//此字符串中的第一个字符为不可见字符: '\u202a'
 		final String str = "‪C:/Users/maple/Desktop/tone.txt";
