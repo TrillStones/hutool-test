@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 /**
  * 统一社会信用代码（GB32100-2015）工具类<br>
  * 标准见：https://www.cods.org.cn/c/2020-10-29/12575.html
- *
+ * //todocjj wait
  * <pre>
  * 第一部分：登记管理部门代码1位 (数字或大写英文字母)
  * 第二部分：机构类别代码1位 (数字或大写英文字母)
