@@ -2,7 +2,7 @@ package cn.hutool.core.util;
 
 /**
  * 脱敏工具类，支持以下类型信息的脱敏自动处理：
- *
+ * //learnedcjj
  * <ul>
  *     <li>用户ID</li>
  *     <li>中文名</li>
