@@ -6,7 +6,7 @@ import cn.hutool.core.text.CharPool;
 /**
  * 字符工具类<br>
  * 部分工具来自于Apache Commons系列
- *
+ * //newleancjj
  * @author looly
  * @since 4.0.1
  */

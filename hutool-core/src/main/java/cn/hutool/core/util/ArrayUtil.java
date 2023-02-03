@@ -31,7 +31,7 @@ import java.util.stream.Collectors;
 
 /**
  * 数组工具类
- *
+ * //newleancjj
  * @author Looly
  */
 public class ArrayUtil extends PrimitiveArrayUtil {

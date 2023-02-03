@@ -21,7 +21,7 @@ import java.util.concurrent.atomic.LongAdder;
  *     <li>double: 双精度浮点数(小数) 占8个字节 64位二进制 byte[0] byte[1] byte[2] byte[3] byte[4]byte[5] byte[6] byte[7]</li>
  * </ul>
  * 注：注释来自Hanlp，代码提供来自pr#1492@Github
- *
+ * //newleancjj
  * @author looly, hanlp, FULaBUla
  * @since 5.6.3
  */
