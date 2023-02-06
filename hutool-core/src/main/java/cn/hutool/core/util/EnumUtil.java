@@ -16,7 +16,7 @@ import java.util.function.Predicate;
 
 /**
  * 枚举工具类
- *
+ * //newlearncjj
  * @author looly
  * @since 3.3.0
  */
