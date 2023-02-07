@@ -6,7 +6,7 @@ import java.util.Random;
 
 /**
  * 原始类型数组工具类
- *
+ * newlearncjj
  * @author looly
  * @since 5.5.2
  */

@@ -14,7 +14,7 @@ import java.lang.ref.WeakReference;
  * 2. {@link WeakReference} 弱引用，在GC时发现弱引用会回收其对象
  * 3. {@link PhantomReference} 虚引用，在GC时发现虚引用对象，会将{@link PhantomReference}插入{@link ReferenceQueue}。 此时对象未被真正回收，要等到{@link ReferenceQueue}被真正处理后才会被回收。
  * </pre>
- *
+ * newlearncjj
  * @author looly
  * @since 3.1.2
  */

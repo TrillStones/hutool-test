@@ -10,7 +10,7 @@ import java.io.Serializable;
 /**
  * 序列化工具类<br>
  * 注意！此工具类依赖于JDK的序列化机制，某些版本的JDK中可能存在远程注入漏洞。
- *
+ * newlearncjj
  * @author looly
  * @since 5.6.3
  */

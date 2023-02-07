@@ -13,7 +13,7 @@ package cn.hutool.core.util;
  *     <li>数字加密，通过两次不同进制的转换，让有规律的数字看起来没有任何规律</li>
  *     <li>....</li>
  * </ul>
- *
+ * todocjj
  * @author xl7@qq.com
  * @since 5.5.8
  */

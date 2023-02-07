@@ -25,7 +25,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 /**
  * 随机工具类
- *
+ * newlearncjj
  * @author xiaoleilu
  */
 public class RandomUtil {

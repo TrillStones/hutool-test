@@ -28,7 +28,7 @@ import java.util.regex.Pattern;
 /**
  * 正则相关工具类<br>
  * 常用正则请见 {@link Validator}
- *
+ * newlearncjj
  * @author xiaoleilu
  */
 public class ReUtil {
