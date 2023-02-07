@@ -26,9 +26,10 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
+ * RegexUtil
  * 正则相关工具类<br>
  * 常用正则请见 {@link Validator}
- * newlearncjj
+ * newlearncjj RegexUtil
  * @author xiaoleilu
  */
 public class ReUtil {
