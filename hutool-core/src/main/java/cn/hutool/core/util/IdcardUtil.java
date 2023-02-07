@@ -21,7 +21,7 @@ import java.util.Objects;
  * 本工具并没有对行政区划代码做校验，如有需求，请参阅（2018年10月）：
  * <a href="http://www.mca.gov.cn/article/sj/xzqh/2018/201804-12/20181011221630.html">http://www.mca.gov.cn/article/sj/xzqh/2018/201804-12/20181011221630.html</a>
  * </p>
- *
+ * newlearncjj
  * @author Looly
  * @since 3.0.4
  */

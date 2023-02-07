@@ -18,7 +18,7 @@ import cn.hutool.core.net.NetUtil;
  *
  * <p>
  * ID相关文章见：http://calvin1978.blogcn.com/articles/uuid.html
- *
+ * newlearncjj
  * @author looly
  * @since 4.1.13
  */

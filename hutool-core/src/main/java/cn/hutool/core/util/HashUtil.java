@@ -8,7 +8,7 @@ import cn.hutool.core.lang.hash.Number128;
 /**
  * Hash算法大全<br>
  * 推荐使用FNV1算法
- *
+ * newlearncjj
  * @author Goodzzp, Looly
  */
 public class HashUtil {

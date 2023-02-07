@@ -24,7 +24,7 @@ import java.nio.charset.Charset;
  *   <li>https://www.cnblogs.com/yanghaolie/p/11110991.html</li>
  *   <li>https://my.oschina.net/u/4266515/blog/3330113</li>
  * </ul>
- *
+ * newlearncjj
  * @author dazer
  * @see XmlUtil
  * @since 5.7.3

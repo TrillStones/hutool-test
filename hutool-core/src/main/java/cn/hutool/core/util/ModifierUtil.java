@@ -9,7 +9,7 @@ import java.lang.reflect.Modifier;
 
 /**
  * 修饰符工具类
- *
+ * newlearncjj
  * @author looly
  * @since 4.0.5
  */
@@ -223,7 +223,7 @@ public class ModifierUtil {
 
 	/**
 	 * 是否是合成字段（由java编译器生成的）
-	 *
+	 * todocjj what's Synthetic field?
 	 * @param field 字段
 	 * @return 是否是合成字段
 	 * @since 5.6.3
