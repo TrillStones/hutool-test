@@ -14,7 +14,7 @@ import java.util.Map;
 
 /**
  * 字符串工具类
- *
+ * newlearncjj
  * @author xiaoleilu
  */
 public class StrUtil extends CharSequenceUtil implements StrPool {
