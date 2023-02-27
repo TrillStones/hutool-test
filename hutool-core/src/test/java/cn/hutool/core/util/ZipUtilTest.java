@@ -214,4 +214,21 @@ public class ZipUtilTest {
 		// long size = 636*1024L;
 		unzip(zipFile, file, size);
 	}
+
+	/**
+	 * Method under test: {@link ZipUtil#get(File, Charset, String)}
+	 */
+	@Test
+	public void testGet() {
+		File zipFile = new File("/Users/jnje/Downloads/2022短信重发率报表.zip");
+		Charset charset = Charset.forName("UTF-8");
+		String path = "2022短信重发率报表.xlsx";
+
+		// Act
+		InputStream actualGetResult = ZipUtil.get(zipFile, charset, path);
+
+		// Assert
+		Assert.assertNotNull(actualGetResult);
+
+	}
 }
